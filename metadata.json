@@ -1,0 +1,5 @@
+{
+  "name": "Crystal Frost",
+  "description": "A hyper-realistic 3D frosted glass effect using React Three Fiber with refractive material physics and interactive mouse-based tilting.",
+  "requestFramePermissions": []
+}
